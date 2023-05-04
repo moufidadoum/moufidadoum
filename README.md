@@ -5,7 +5,7 @@
 
 
 <p align="right"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="moufidadoum" /> </p>
-- 💬 Étudiant en première année en Bachelor IT **École la Plateforme_**
+- ◘💬 Étudiant en première année en Bachelor IT **École la Plateforme_**
 
 - 📫 À la recherche d'une alternance en cybersécurité
 
